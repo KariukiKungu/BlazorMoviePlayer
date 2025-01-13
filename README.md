@@ -1,8 +1,8 @@
-# Blazor JavaScript Interopt
+# Blazor Javascript interop
 
 <img src="https://github.com/CoderFoundry/BlazorMoviePlayer/blob/main/wwwroot/Images/CF_Logo_NO.png" alt="Coder Foundry" width="200" />
 
-Welcome to **Blazor Javascript Interopts**, a project developed by Coder Foundry. Learn about calling javascript from Blazor.
+Welcome to **Blazor Javascript Interop**, a project developed by Coder Foundry. You can learn about calling javascript from Blazor.
 
 ## 🚀 Live Demo
 
@@ -12,7 +12,7 @@ Check out the live site! Click the button below to view the published version of
 
 ## 🎥 Watch the Video
 
-Want to see how to call javascript from Blazor? Check out our YouTube video for a detailed walkthrough and demonstration.
+Want to see how to call Javascript from Blazor? Our YouTube video provides a detailed walkthrough and demonstration.
 
 [![Watch the Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/HcVfL9o4LUw)
 
