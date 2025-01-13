@@ -1,6 +1,6 @@
 # Blazor JavaScript Interopt
 
-<img src="/img/CF_Logo_ON.png" alt="Coder Foundry" width="200" />
+<img src="https://github.com/CoderFoundry/BlazorMoviePlayer/blob/main/wwwroot/Images/CF_Logo_NO.png" alt="Coder Foundry" width="200" />
 
 Welcome to **Blazor Javascript Interopts**, a project developed by Coder Foundry. Learn about calling javascript from Blazor.
 
